@@ -1,4 +1,7 @@
-
+@font-face {
+  font-family: 'Segoe UI';
+  src: url('segoeui.ttf') format('truetype');
+}
 
 body {
     font-family: 'Segoe UI';
